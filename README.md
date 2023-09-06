@@ -37,5 +37,15 @@ Or as tagget equation:
 
 $$c=\sqrt(a^2+b^2)\tag{1}$$
 
+```mermaid
+graph TD;
+   A-->B;
+   A-->C;
+   B-->D;
+   C-->D;
+   D-->A;
+
+```
+
 
 
