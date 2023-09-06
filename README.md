@@ -1,16 +1,16 @@
 # MarkdownDemo
 
-Det her er ens test af programmet 
+Det her er ens test af hvad man skrive i en readMe 
 
 ## what up next
-  * Det ved vi sgu ikke
-    * Hej
-      * hej
+  * Code
+    * Math
+      * Diagrams
 
 
-### What up now 
+### Code
 
-jeg fatter det ikke
+Enkel Code
 
 ```python
 import this
@@ -25,7 +25,7 @@ def myfunc():
 </html>
 ```
 
-# You can write formulas
+### Math
 
 Math can be included inline as in laTEX with the code
 `$c=\sqrt(a^2+B^2)$`that will render to: $c=\sqrt(a^2+b^2)$.
@@ -36,6 +36,8 @@ $$c=\sqrt(a^2+b^2)$$
 Or as tagget equation:
 
 $$c=\sqrt(a^2+b^2)\tag{1}$$
+
+### Diagram
 
 ```mermaid
 graph TD;
