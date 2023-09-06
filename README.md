@@ -5,7 +5,8 @@ Det her er ens test af hvad man skrive i en readMe
 ## what up next
   * Code
     * Math
-      * Diagrams
+      * Graph
+        * Diagram
 
 
 ### Code
@@ -37,7 +38,7 @@ Or as tagget equation:
 
 $$c=\sqrt(a^2+b^2)\tag{1}$$
 
-### Diagram
+### Graph
 
 ```mermaid
 graph TD;
@@ -49,5 +50,8 @@ graph TD;
 
 ```
 
+``` mermaid
+erDiagram
+    CUSTOMER
 
 
