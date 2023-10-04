@@ -53,6 +53,6 @@ graph TD;
 ``` mermaid
 erDiagram
     CUSTOMER
-
+``````
 
 hej med dig 
