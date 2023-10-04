@@ -48,11 +48,11 @@ graph TD;
    C-->D;
    D-->A;
 
-```
-hdfhfhfhfhj 
+``` 
 
 ``` mermaid
 erDiagram
     CUSTOMER
 
 
+hej med dig 
